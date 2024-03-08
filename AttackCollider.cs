@@ -48,7 +48,6 @@ public class AttackCollider : MonoBehaviour {
         damage = 0f;
         SoundOn = false;
         SmashUpgradeOn = false;
-        //skillDamage = 0;
         totalDamage = 0;
         OwnerAnim = null;
         HitEnemies = new List<GameObject>();
